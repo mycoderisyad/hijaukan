@@ -3,7 +3,7 @@
 // **Persyaratan:**
 // 1. Pastikan Anda memiliki Node.js terinstal di sistem Anda.
 // 2. Pastikan Anda memiliki akun GitHub dan sudah membuat Personal Access Token (PAT).
-// 3. Ganti `your_github_token` dan `your_github_username` dengan kredensial GitHub Anda.
+//
 //
 // **Instalasi Modul yang Diperlukan:**
 // Jalankan perintah berikut untuk menginstal semua dependensi yang dibutuhkan:
