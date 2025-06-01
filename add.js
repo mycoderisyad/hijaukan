@@ -14,7 +14,7 @@
 // **Menjalankan Program:**
 // Jalankan perintah berikut di terminal:
 // ```
-// node nama_file.js
+// node add.js
 // ```
 //
 // **Cara Menggunakan:**
